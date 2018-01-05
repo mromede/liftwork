@@ -1,0 +1,17 @@
+#header{
+    text-align: center;
+}
+.inputSec{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+.sendLink{
+    font-size: 20px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #f8f8ff;
+    text-transform: uppercase;
+}
